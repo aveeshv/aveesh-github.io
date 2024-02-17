@@ -15,8 +15,8 @@ Musaeus College Colombo 7
 
 ### Work Experience -
 
-Quality Assurance at Nestle Lanka Pvt. Ltd, Sri Lanka (2026) 
-Research Scientist at John Keels Research, Sri Lanka (2028 present)
+Quality Assurance at Nestle Lanka Pvt. Ltd, Sri Lanka (2026) <br>
+Research Scientist at John Keels Research, Sri Lanka (2028 present)<br>
 
 ### Skills -
 
