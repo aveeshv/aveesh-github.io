@@ -6,8 +6,8 @@ Food technologist I am self motivated, positive minded undergraduate and dedicat
 
 ### Educational Qualification - 
 
-Ordinary level 2019 
-Advanced level 2023
+Ordinary level 2019 <br>
+Advanced level 2023 <br>
 Musaeus College Colombo 7 BSc (Hons) in Biotechnology At Sri Lanka Institute of Information Technology, Malabe (2023-2027)
 
 ### Work Experience -
