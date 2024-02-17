@@ -1,5 +1,5 @@
 Siluni Nanayakkara ,
-Food technologist I am self motivated, positive minded undergraduate and dedicated and resourceful professional with a strong background in Biotechnology. With a keen eye for detail and exceptional organizational skills, I'm consistently delivers high-quality work and thrives in fast-paced environments with possesses excellent communication abilities, both written and verbal, enabling effective collaboration with team members and stakeholders.
+<br>Food technologist I am self motivated, positive minded undergraduate and dedicated and resourceful professional with a strong background in Biotechnology. With a keen eye for detail and exceptional organizational skills, I'm consistently delivers high-quality work and thrives in fast-paced environments with possesses excellent communication abilities, both written and verbal, enabling effective collaboration with team members and stakeholders.
 
 <img src="IMG_20240217_134929_243" width="100" height="100">
 
