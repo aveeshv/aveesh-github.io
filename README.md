@@ -34,13 +34,13 @@ Research Scientist at John Keels Research, Sri Lanka (2028 present)<br>
 • Find relaxation and inspiration in nature, often hiking & gardening <br>
 
 ### Extra curricular activities -
-• Member of SLIIT Rotract Club 
-• Member of SLIIT Leo Club 
-• Member of School Badminton team 
+• Member of SLIIT Rotract Club <br>
+• Member of SLIIT Leo Club <br>
+• Member of School Badminton team <br>
 
-Address - No. 144 /M, Kanduboda, Delgoda 
-Phone - 0714914689 
-Email - nanayakkarasiluni@gmail.com
+Address - No. 144 /M, Kanduboda, Delgoda <br>
+Phone - (+94)714 914 689 <br>
+Email - nanayakkarasiluni@gmail.com <br>
 
 
 
