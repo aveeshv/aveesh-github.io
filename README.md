@@ -39,7 +39,7 @@ Research Scientist at John Keels Research, Sri Lanka (2028 present)<br>
 • Member of School Badminton team <br>
 
 Address - No. 144 /M, Kanduboda, Delgoda <br>
-Phone - (+94)714 914 689 <br>
+Phone - (+94) 714 914 689 <br>
 Email - nanayakkarasiluni@gmail.com <br>
 
 
