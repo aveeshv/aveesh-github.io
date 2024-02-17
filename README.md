@@ -20,12 +20,12 @@ Research Scientist at John Keels Research, Sri Lanka (2028 present)<br>
 
 ### Skills -
 
-Project Management
-Public Relations
-Teamwork 
-Time Management
-Leadership
-Effective Communication
+Project Management <br>
+Public Relations <br>
+Teamwork <br>
+Time Management<br>
+Leadership<br>
+Effective Communication<br>
 
 ### Hobbies -
 
