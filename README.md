@@ -29,9 +29,9 @@ Research Scientist at John Keels Research, Sri Lanka (2028 present)<br>
 
 ### Hobbies -
 
-Spend time researching and experimenting with techniques such as fermentation and bioprocessing in my home laboratory. 
-Trying out new recipes and techniques that incorporate innovative food biotechnology principles 
-Find relaxation and inspiration in nature, often hiking & gardening 
+• Spend time researching and experimenting with techniques such as fermentation and bioprocessing in my home laboratory. <br>
+• Trying out new recipes and techniques that incorporate innovative food biotechnology principles <br>
+• Find relaxation and inspiration in nature, often hiking & gardening <br>
 
 ### Extra curricular activities -
 • Member of SLIIT Rotract Club 
