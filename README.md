@@ -1,3 +1,5 @@
+<html>
+ <body>
 <h1>Siluni Nanayakkara</h1>
 <br><h3>Food technologist</h3> <br> <p></p>I am self motivated, positive minded undergraduate and dedicated and resourceful professional with a strong background in Biotechnology. With a keen eye for detail and exceptional organizational skills, I'm consistently delivers high-quality work and thrives in fast-paced environments with possesses excellent communication abilities, both written and verbal, enabling effective collaboration with team members and stakeholders.</p>
 
@@ -41,7 +43,7 @@ Research Scientist at John Keels Research, Sri Lanka (2028 present)<br>
 Address - No. 144 /M, Kanduboda, Delgoda <br>
 Phone - (+94) 714 914 689 <br>
 Email - nanayakkarasiluni@gmail.com <br>
-
-
+</body>
+</html>
 
 
