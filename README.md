@@ -11,7 +11,7 @@ Advanced level 2023 <br>
 Musaeus College Colombo 7
 
  <b><i>Higher Education</b></i> <br>
- BSc (Hons) in Biotechnology At Sri Lanka Institute of Information Technology, Malabe (2023-2027)
+ <br>BSc (Hons) in Biotechnology At Sri Lanka Institute of Information Technology, Malabe (2023-2027)
 
 ### Work Experience -
 
