@@ -5,63 +5,38 @@ Siluni Nanayakkara Food technologist I am self motivated, positive minded underg
 
 ### Educational Qualification - 
 
-SPORT 
-RED
-BLUE
+Ordinary level 2019 
+Advanced level 2023
+Musaeus College Colombo 7 BSc (Hons) in Biotechnology At Sri Lanka Institute of Information Technology, Malabe (2023-2027)
 
-### Sections
+### Work Experience -
 
-- Header
-- Work
-- Services
-- About
-- Contact
-- Markdown Blog
+Quality Assurance at Nestle Lanka Pvt. Ltd, Sri Lanka (2026) 
+Research Scientist at John Keels Research, Sri Lanka (2028 present)
 
+### Skills -
 
-### How To Use
+Project Management
+Public Relations
+Teamwork 
+Time Management
+Leadership
+Effective Communication
 
-- Clone this repo
-- run `yarn`
-- `yarn dev`
+### Hobbies -
 
+Spend time researching and experimenting with techniques such as fermentation and bioprocessing in my home laboratory. 
+Trying out new recipes and techniques that incorporate innovative food biotechnology principles 
+Find relaxation and inspiration in nature, often hiking & gardening 
 
-### How To Deploy - 
+### Extra curricular activities -
+• Member of SLIIT Rotract Club 
+• Member of SLIIT Leo Club 
+• Member of School Badminton team 
 
-- There are many ways to Deploy this repo.
-- here we are gonna use netlify
-- Login into netlify with github
-- after login select the forked repo or the repo you want to deploy
-- after selecting netlify will automatially deploy your website.
-
-Quickes way to deploy this repo - 
-
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chetanverma16/react-portfolio-template)
-
-
-### How To Contribute - 
-
-I would be very happy to review your PRs and all the awesome things that you can improve on this portfolio.
-
-
-### Tech Stack Used - 
-- Next.js
-- TailwindCSS
-
-
-### Thanks
-
-If you liked this portfolio template, don't forget to give it a ⭐.
-
-## Awesome Contributors
-[@Aryan3212](https://github.com/Aryan3212) [@achu-krishna](https://github.com/achu-krishna)
-
-## Supporting
-Many hours of hard work have gone into this project. Your support will be very appreciated!
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chetanverma)
-
-
+Address - No. 144 /M, Kanduboda, Delgoda 
+Phone - 0714914689 
+Email - nanayakkarasiluni@gmail.com
 
 
 
